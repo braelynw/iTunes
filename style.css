@@ -1,0 +1,45 @@
+body{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+#reset {
+    font-family: Futura;
+    text-align: center;
+    font-family: "Arial Hebrew";
+    font-size: 16px;
+}
+
+#singers {
+    height: 36px;
+    text-align: center;
+    font-family: "Arial Hebrew";
+    font-size: 16px;
+}
+
+#search {
+    font-family: "Arial Hebrew";
+    height: 36px;
+    font-size: 16px;
+    text-align: center;
+}
+
+#clear {
+    font-family: "Arial Hebrew";
+    font-size: 16px;
+    text-align: center;
+}
+
+#h1 {
+    font-family: "Arial Hebrew";
+    font-size: 16px;
+    text-align: center;
+}
+
+#output{
+    height: 36px;
+    font-family: "Arial Hebrew";
+    font-size: 16px;
+    text-align: center;
+}
+
